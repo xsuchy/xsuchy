@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am Miroslav Suchý
+
+![xsuchy's github stats](https://github-readme-stats.vercel.app/api?username=xsuchy&show_icons=true&theme=tokyonight)
+
+StackExchange profile: 
+<a href="https://stackexchange.com/users/4266407">
+<img src="https://stackexchange.com/users/flair/4266407.png" width="208" height="58" alt="profile for msuchy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for msuchy on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+</a>
 
 <!--
 **xsuchy/xsuchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
