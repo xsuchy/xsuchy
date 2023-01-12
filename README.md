@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Miroslav Suchý
 
-![xsuchy's github stats](https://github-readme-stats.vercel.app/api?username=xsuchy&show_icons=true&theme=tokyonight)
+![xsuchy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xsuchy&show_icons=true&theme=tokyonight)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 StackExchange profile: 
 <a href="https://stackexchange.com/users/4266407">
